@@ -1,0 +1,11 @@
+.brandName {
+  background-color: greenyellow;
+  border-radius: 3px;
+  color: black;
+  padding: 5px;
+}
+
+.brandName > span {
+  color: black;
+  font-weight: bold;
+}
